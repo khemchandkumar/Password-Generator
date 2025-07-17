@@ -35,9 +35,26 @@ A GUI-based **Password Generator** built with **Python and Tkinter** that allows
 
 ## 📦 Installation & Running
 
-1. Clone the repository:
+1. Make sure Python is installed
+2. Clone the repository:
 
 ```bash
 git clone https://github.com/khemchandkumar/Password-Generator.git
 cd Password-Generator
+```
+3. Run the script:
+   ```bash
+   python password_generator.py
+   ```
+---
+
+## 📃 License
+This project is licensed under the MIT License.
+
+---
+
+👨‍💻 **Created by Khemchand Kumar**
+
+
+
 
