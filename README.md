@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 
 Developed a desktop Password Generator application using Python and Tkinter.
 
